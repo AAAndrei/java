@@ -1,4 +1,4 @@
-package com.andrei;
+package com.andrei.beans;
 
 public class FishMaster {
     public static void main(String[] args){

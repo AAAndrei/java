@@ -1,4 +1,4 @@
-package com.andrei;
+package com.andrei.beans;
 
 public class CarOwner {
     public static void main(String[] args){

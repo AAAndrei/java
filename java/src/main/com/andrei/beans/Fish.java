@@ -1,4 +1,4 @@
-package com.andrei;
+package com.andrei.beans;
 
 public class Fish extends Pet {
     int currentDepth = 0;

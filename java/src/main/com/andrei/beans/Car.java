@@ -1,7 +1,6 @@
-package com.andrei;
+package com.andrei.beans;
 
 public class Car {
-    int distance;
     public void start(){
         System.out.println("Поехали");
     }
@@ -11,7 +10,7 @@ public class Car {
     }
 
     public int drive(int howlong){
-      distance = howlong*60;
+      int distance = howlong*60;
       return distance;
     }
 }
