@@ -8,4 +8,7 @@ public class Fish extends Pet {
         System.out.println("Я на глубине" + currentDepth + "футов ниже уровня моря");
         return currentDepth;
     }
+    public String say (String something){
+        return "Ты че не знаешь , что рвбы не разговаривают? ";
+    }
 }
